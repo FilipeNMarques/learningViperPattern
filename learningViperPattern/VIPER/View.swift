@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+// Responsibilities
+
+
+// ViewController
+// Protocol
+// Reference presenter

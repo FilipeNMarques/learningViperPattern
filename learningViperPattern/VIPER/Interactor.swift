@@ -6,3 +6,13 @@
 //
 
 import Foundation
+
+
+// Responsibilities
+
+// Object
+// Protocol
+// Ref to presenter
+
+// https://jsonplaceholder.typicode.com/users
+

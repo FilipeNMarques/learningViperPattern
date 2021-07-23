@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+// Responsibilities
+
+
+// Object
+// Protocol
+// Ref to interector, Router, View
