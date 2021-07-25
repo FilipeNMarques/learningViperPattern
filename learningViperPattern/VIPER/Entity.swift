@@ -8,6 +8,8 @@
 import Foundation
 
 // Responsibilities
-
-
 // Model
+
+struct User: Codable {
+    let name: String
+}

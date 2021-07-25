@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		DD20375026AA438F0078B149 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD20374F26AA438F0078B149 /* AppDelegate.swift */; };
 		DD20375226AA438F0078B149 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD20375126AA438F0078B149 /* SceneDelegate.swift */; };
-		DD20375426AA438F0078B149 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD20375326AA438F0078B149 /* ViewController.swift */; };
 		DD20375926AA43920078B149 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD20375826AA43920078B149 /* Assets.xcassets */; };
 		DD20375C26AA43920078B149 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD20375A26AA43920078B149 /* LaunchScreen.storyboard */; };
 		DD20376526AA458A0078B149 /* View.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD20376426AA458A0078B149 /* View.swift */; };
@@ -23,7 +22,6 @@
 		DD20374C26AA438F0078B149 /* learningViperPattern.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = learningViperPattern.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD20374F26AA438F0078B149 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DD20375126AA438F0078B149 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		DD20375326AA438F0078B149 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DD20375826AA43920078B149 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD20375B26AA43920078B149 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD20375D26AA43920078B149 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -67,7 +65,6 @@
 				DD20376326AA451C0078B149 /* VIPER */,
 				DD20374F26AA438F0078B149 /* AppDelegate.swift */,
 				DD20375126AA438F0078B149 /* SceneDelegate.swift */,
-				DD20375326AA438F0078B149 /* ViewController.swift */,
 				DD20375826AA43920078B149 /* Assets.xcassets */,
 				DD20375A26AA43920078B149 /* LaunchScreen.storyboard */,
 				DD20375D26AA43920078B149 /* Info.plist */,
@@ -160,7 +157,6 @@
 				DD20376926AA45CE0078B149 /* Presenter.swift in Sources */,
 				DD20376526AA458A0078B149 /* View.swift in Sources */,
 				DD20376B26AA45FC0078B149 /* Entity.swift in Sources */,
-				DD20375426AA438F0078B149 /* ViewController.swift in Sources */,
 				DD20376726AA45B50078B149 /* Interactor.swift in Sources */,
 				DD20375026AA438F0078B149 /* AppDelegate.swift in Sources */,
 				DD20375226AA438F0078B149 /* SceneDelegate.swift in Sources */,
